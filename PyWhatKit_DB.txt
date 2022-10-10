@@ -1,0 +1,112 @@
+Date: 10/10/2022
+Time: 18:2
+Group ID: Cl6nmGr90LDD7wVJKjx8B1
+Message: teste Bot Py
+--------------------
+Date: 10/10/2022
+Time: 18:4
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Message: teste Bot Py
+--------------------
+Date: 10/10/2022
+Time: 18:6
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Message: Hey All!
+--------------------
+Date: 10/10/2022
+Time: 18:8
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Message: Hey All!
+--------------------
+Date: 10/10/2022
+Time: 18:11
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Message: Hey All!
+--------------------
+Date: 10/10/2022
+Time: 18:21
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Message: teste Bo
+--------------------
+Date: 10/10/2022
+Time: 18:27
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Message: teste Bo
+--------------------
+Date: 10/10/2022
+Time: 18:34
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Message: teste Bo
+--------------------
+Date: 10/10/2022
+Time: 18:40
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Message: teste Bo
+--------------------
+Date: 10/10/2022
+Time: 18:49
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Message: Teste 2
+--------------------
+Date: 10/10/2022
+Time: 18:51
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Message: Teste 2
+--------------------
+Date: 10/10/2022
+Time: 19:5
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Message: Turma, O poder que tem opções com muito gamma, é impressionante para muitos. Movimentações pequenas no ativo subjacente, trazem valorizações bruscas. Veja os exemplos abaixo das calls de ELET6 que tem muito gamma (devido a baixa volatilidade implícita) e das puts de CSNA3 que tem alta volatilidade implícita.
+--------------------
+Date: 10/10/2022
+Time: 19:8
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Image: /1.jpg
+Caption: 
+--------------------
+Date: 10/10/2022
+Time: 19:10
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Image: /1.jpeg
+Caption: 
+--------------------
+Date: 10/10/2022
+Time: 19:17
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Image: /1.jpeg
+Caption: 
+--------------------
+Date: 10/10/2022
+Time: 19:25
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Message: /1.jpeg
+--------------------
+Date: 10/10/2022
+Time: 19:27
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Message: /1.jpeg
+--------------------
+Date: 10/10/2022
+Time: 19:39
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Image: /1.jpeg
+Caption: Here is the image
+--------------------
+Date: 10/10/2022
+Time: 19:42
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Image: \1.jpeg
+Caption: Here is the image
+--------------------
+Date: 10/10/2022
+Time: 19:42
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Image: .jpeg
+Caption: Here is the image
+--------------------
+Date: 10/10/2022
+Time: 19:44
+Group ID: G7mDIKUlU25HsWC7iasnNT
+Image: /1.jpeg1.jpeg
+Caption: Here is the image
+--------------------
